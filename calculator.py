@@ -1,3 +1,4 @@
+print("Hello world")
 num1=int(input("Enter the first number: "))
 num2=int(input("Enter the second number: "))
 #turning string in integer with int.
