@@ -1,0 +1,8 @@
+print("Enter first number:")
+num1 = input()
+print("Enter second number:")
+num2 = input()
+print("-----------------")
+print("first number: {}".format(num1))
+print("second number: {}".format(num2))
+print("-----------------")

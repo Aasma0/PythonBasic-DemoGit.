@@ -1,0 +1,11 @@
+num1=input("Enter the first number")
+num2=input("Enter the second number:")
+Division=int(num1)/int(num2)
+print(Division)
+division=int(num1)//int(num2)
+print(division)
+Modulu=int(num1)%int(num2)
+print(Modulu)
+power=int(num1)**int(num2)
+print(power)
+

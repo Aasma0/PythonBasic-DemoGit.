@@ -1,0 +1,5 @@
+print("Hello world")
+print("Aasma Subba")
+print("Kupondole, Lalitpur")
+print("9816977218")
+print("aasmasubba4562gmail.com")
